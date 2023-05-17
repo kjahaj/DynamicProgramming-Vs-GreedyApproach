@@ -20,7 +20,6 @@ The repository currently includes the following:
 - `examples/`: This directory showcases practical examples that demonstrate the differences between dynamic programming and greedy approaches.
 - `analysis/`: This directory presents detailed analysis and evaluations of the performance and behavior of the algorithms in different scenarios.
 - `contributing.md`: Guidelines for contributing to the repository.
-- `LICENSE`: The license information for this project.
 
 ## Getting Started
 To get started with this project, follow these steps:
