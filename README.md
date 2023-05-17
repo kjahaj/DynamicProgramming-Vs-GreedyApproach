@@ -15,8 +15,8 @@ Algorithms play a vital role in solving complex computational problems. This rep
 
 ## Contents
 The repository currently includes the following:
-- `dynamic_programming/`: This directory contains implementations of dynamic programming algorithms for specific problem domains.
-- `greedy_algorithms/`: This directory contains implementations of greedy algorithms for specific problem domains.
+- `Dynamic Programming Approaches/`: This directory contains implementations of dynamic programming algorithms for specific problem domains.
+- `Greedy Algorithms/`: This directory contains implementations of greedy algorithms for specific problem domains.
 - `examples/`: This directory showcases practical examples that demonstrate the differences between dynamic programming and greedy approaches.
 - `analysis/`: This directory presents detailed analysis and evaluations of the performance and behavior of the algorithms in different scenarios.
 - `contributing.md`: Guidelines for contributing to the repository.
