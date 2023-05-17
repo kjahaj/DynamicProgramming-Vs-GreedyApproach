@@ -9,8 +9,6 @@ Welcome to the Dynamic Programming vs Greedy Algorithms repository! This project
 - [Contents](#contents)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Algorithms play a vital role in solving complex computational problems. This repository focuses on the comparison between two widely used algorithmic approaches: dynamic programming and greedy strategies. By studying and implementing these techniques, I can gain insights into their application domains, time complexities, and their impact on solving various types of problems.
@@ -33,12 +31,6 @@ To get started with this project, follow these steps:
 
 ## Usage
 The code in this repository is provided for educational purposes, allowing you to study and compare dynamic programming and greedy algorithms. Feel free to use the implementations as a reference for your own projects, modify them, or expand upon them. Each directory contains its own README file with specific instructions and explanations.
-
-## Contributing
-Contributions are welcome and encouraged! If you'd like to contribute to this project, please review the [contributing guidelines](contributing.md) for instructions on how to get started. I appreciate bug reports, feature requests, and pull requests to help enhance the repository.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
