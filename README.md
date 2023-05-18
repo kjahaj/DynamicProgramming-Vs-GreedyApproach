@@ -1,6 +1,6 @@
 # Dynamic Programming vs Greedy Algorithms
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-violet.svg)](https://opensource.org/licenses/MIT)
 
 Welcome to the Dynamic Programming vs Greedy Algorithms repository! This project explores the fascinating world of algorithmic problem-solving by comparing two popular approaches: dynamic programming and greedy strategies. Through code examples and analysis, I aim to understand the strengths, weaknesses, and trade-offs of each technique.
 
@@ -15,11 +15,10 @@ Algorithms play a vital role in solving complex computational problems. This rep
 
 ## Contents ./README_2.md [`Your Directory Name/`](./your-directory-name):
 The repository currently includes the following:
-- [`Knapsack Problem`](./knapsack-problem): This directory contains implementations of dynamic programming algorithms for specific problem domains.
-- `Greedy Algorithms/`: This directory contains implementations of greedy algorithms for specific problem domains.
-- `examples/`: This directory showcases practical examples that demonstrate the differences between dynamic programming and greedy approaches.
-- `analysis/`: This directory presents detailed analysis and evaluations of the performance and behavior of the algorithms in different scenarios.
-- `contributing.md`: Guidelines for contributing to the repository.
+- `KnapsackProblem/` This directory contains implementations of the Knapsack Problem.
+- `MaxGradesProblem`: This directory contains implementations of the Maximum Grade Problem.
+- `ShortestPath/`: This directory contains implementations of the Shortest Path Problem.
+- `TwoBagsKnapsack/`: This directory contains implemetations of the Two Bags Knapsack Problem.
 
 ## Getting Started
 To get started with this project, follow these steps:
