@@ -1,6 +1,6 @@
 # Dynamic Programming vs Greedy Algorithms
 
-[![License](https://img.shields.io/badge/License-MIT-violet.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
 
 Welcome to the Dynamic Programming vs Greedy Algorithms repository! This project explores the fascinating world of algorithmic problem-solving by comparing two popular approaches: dynamic programming and greedy strategies. Through code examples and analysis, I aim to understand the strengths, weaknesses, and trade-offs of each technique.
 
