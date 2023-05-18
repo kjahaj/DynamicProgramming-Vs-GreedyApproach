@@ -13,9 +13,9 @@ Welcome to the Dynamic Programming vs Greedy Algorithms repository! This project
 ## Introduction
 Algorithms play a vital role in solving complex computational problems. This repository focuses on the comparison between two widely used algorithmic approaches: dynamic programming and greedy strategies. By studying and implementing these techniques, I can gain insights into their application domains, time complexities, and their impact on solving various types of problems.
 
-## Contents
+## Contents ./README_2.md [`Your Directory Name/`](./your-directory-name):
 The repository currently includes the following:
-- `DynamicProgramming-Vs-GreedyApproach/Dynamic-Programming-Approaches/`: This directory contains implementations of dynamic programming algorithms for specific problem domains.
+- [`Knapsack Problem`](./knapsack-problem): This directory contains implementations of dynamic programming algorithms for specific problem domains.
 - `Greedy Algorithms/`: This directory contains implementations of greedy algorithms for specific problem domains.
 - `examples/`: This directory showcases practical examples that demonstrate the differences between dynamic programming and greedy approaches.
 - `analysis/`: This directory presents detailed analysis and evaluations of the performance and behavior of the algorithms in different scenarios.
