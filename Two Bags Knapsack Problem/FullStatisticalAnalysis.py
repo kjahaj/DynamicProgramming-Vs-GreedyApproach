@@ -1,5 +1,4 @@
 import random
-import random
 import matplotlib.pyplot as plt
 
 def generate_items(n, max_weight, max_value):
