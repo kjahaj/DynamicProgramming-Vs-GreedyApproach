@@ -25,3 +25,13 @@ def MCP_DP(G):
             M[i][j] = min(m_e, m_ne, m_n) + G[i][j]
     
     return M[i][j]
+
+def minCost(M, i, j, L, C):
+    infinity = sys.maxsize
+    if inGrid(i, j, L, C):
+        return M[i][j]
+    else:
+        return infinity
+
+def inGrid(i, j, L, C):
+    return 0 <= i < L and 0 <= j < C
