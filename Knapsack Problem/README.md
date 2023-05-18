@@ -1,6 +1,6 @@
 # Knapsack Problem: Greedy vs Dynamic Programming
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 Welcome to the Knapsack Problem repository! This directory focuses on solving the Knapsack Problem using both greedy and dynamic programming algorithms. Additionally, it provides a comprehensive statistical analysis of the algorithms' performance, helping you understand the trade-offs and effectiveness of each approach.
 
